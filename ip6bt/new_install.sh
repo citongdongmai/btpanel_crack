@@ -314,7 +314,8 @@ Install_Bt(){
 		sleep 1
 	fi
 
-	wget -O panel.zip ${download_Url}/install/src/panel6.zip -T 10
+	# wget -O panel.zip ${download_Url}/install/src/panel6.zip -T 10
+	wget -O panel.zip https://github.com/lhpmain/btpanel_crack/raw/master/ip6bt/install/src/panel6.zip -T 10
 	wget -O /etc/init.d/bt ${download_Url}/install/src/bt6.init -T 10
 	wget -O /www/server/panel/install/public.sh ${download_Url}/install/public.sh -T 10
 
