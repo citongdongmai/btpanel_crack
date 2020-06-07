@@ -16,6 +16,10 @@ Usage One Key:
 
 3  wget -O install.sh https://raw.githubusercontent.com/lhpmain/btpanel_crack/master/bt_7.0.2/update6.sh && bash install.sh
 
+IP6的宝塔安装链接：
+
+  curl -sSO  https://raw.githubusercontent.com/lhpmain/btpanel_crack/master/ip6bt/new_install.sh && bash new_install.sh
+
 
 
 
