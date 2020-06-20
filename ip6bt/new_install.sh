@@ -130,7 +130,7 @@ get_node_url(){
 	
 	echo '---------------------------------------------';
 	echo "Selected download node...";
-    # nodes=(http://dg2.bt.cn http://183.235.223.101:3389 http://dg1.bt.cn http://125.88.182.172:5880 http://103.224.251.67 http://119.188.210.21:5880 http://download.bt.cn http://45.32.116.160 http://128.1.164.196);
+     nodes=(http://dg2.bt.cn http://183.235.223.101:3389 http://dg1.bt.cn http://125.88.182.172:5880 http://103.224.251.67 http://119.188.210.21:5880 http://download.bt.cn http://45.32.116.160 http://128.1.164.196);
 	i=1;
 	for node in ${nodes[@]};
 	do
